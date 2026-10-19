@@ -1,0 +1,11 @@
+{
+  "source": "Demo Local Market Feed",
+  "currency": "USD",
+  "unit": "per_liter",
+  "updated_at": "2026-10-15T08:00:00Z",
+  "rates": {
+    "Petrol": 1.95,
+    "Diesel": 1.72,
+    "LPG": 1.05
+  }
+}
